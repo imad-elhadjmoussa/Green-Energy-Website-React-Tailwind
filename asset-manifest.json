@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Green-Energy-Website-React-Tailwind/static/css/main.16adf1c4.css",
+    "main.js": "/Green-Energy-Website-React-Tailwind/static/js/main.b810cb89.js",
+    "static/js/453.856de9fb.chunk.js": "/Green-Energy-Website-React-Tailwind/static/js/453.856de9fb.chunk.js",
+    "static/media/energy-engineer.jpeg": "/Green-Energy-Website-React-Tailwind/static/media/energy-engineer.9d51c42bcbb535fe9fa3.jpeg",
+    "static/media/hydroelectric.jpg": "/Green-Energy-Website-React-Tailwind/static/media/hydroelectric.8205dd1c6a14be401a1c.jpg",
+    "static/media/about-solution.jpg": "/Green-Energy-Website-React-Tailwind/static/media/about-solution.f8621965432798877de2.jpg",
+    "static/media/solar-panle.jpg": "/Green-Energy-Website-React-Tailwind/static/media/solar-panle.200d107c10305ec5a6d6.jpg",
+    "static/media/bg.jpg": "/Green-Energy-Website-React-Tailwind/static/media/bg.250f4e4ff2cbf81965aa.jpg",
+    "static/media/wallpaperflare.com_wallpaper (1).jpg": "/Green-Energy-Website-React-Tailwind/static/media/wallpaperflare.com_wallpaper (1).8d6e2687ebe97f8bb01b.jpg",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/Green-Energy-Website-React-Tailwind/static/media/wallpaperflare.com_wallpaper.ca7bb36ef6220f7adabd.jpg",
+    "static/media/dream.jpg": "/Green-Energy-Website-React-Tailwind/static/media/dream.a32ae7423e20a138bcdc.jpg",
+    "static/media/geothrmal.jpg": "/Green-Energy-Website-React-Tailwind/static/media/geothrmal.95053a20b76f89e79072.jpg",
+    "static/media/nucler-power.jpg": "/Green-Energy-Website-React-Tailwind/static/media/nucler-power.442d140fbe41f0dd9aef.jpg",
+    "static/media/wind-trbuin.jpg": "/Green-Energy-Website-React-Tailwind/static/media/wind-trbuin.08d763426f905e878daf.jpg",
+    "static/media/wallpaperflare.com_wallpaper (2).jpg": "/Green-Energy-Website-React-Tailwind/static/media/wallpaperflare.com_wallpaper (2).89809c2d8ba063d854ca.jpg",
+    "static/media/fuel.jpg": "/Green-Energy-Website-React-Tailwind/static/media/fuel.87bb729fed72692ebcf9.jpg",
+    "static/media/hero2.jpg": "/Green-Energy-Website-React-Tailwind/static/media/hero2.4e1eb41d1355f26b4188.jpg",
+    "static/media/carousel-1.jpg": "/Green-Energy-Website-React-Tailwind/static/media/carousel-1.472eb6ef2b316ce1dd22.jpg",
+    "static/media/electricity-flash-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/electricity-flash-svgrepo-com.0998bf5c94756d644b3a79e4621ac48e.svg",
+    "static/media/buildings-grouped-towers-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/buildings-grouped-towers-svgrepo-com.44e08a20926f18779108b88506cddd83.svg",
+    "static/media/support-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/support-svgrepo-com.c57cfc4d69850ccfb05cc1eb1613c442.svg",
+    "static/media/building-property-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/building-property-svgrepo-com.9d7657a8ffc351c155df4e4be86b93f3.svg",
+    "static/media/fall-tree-leaf-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/fall-tree-leaf-svgrepo-com.90960b7eb176d49d988218f97b0eddeb.svg",
+    "static/media/installation-symbol-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/installation-symbol-svgrepo-com.08c8dc2d13347cffcdc14468192f9ae3.svg",
+    "static/media/maintenance-repair-service-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/maintenance-repair-service-svgrepo-com.c8026c7c4bc5de08bfc6247eef30d57c.svg",
+    "static/media/processor-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/processor-svgrepo-com.65c42f28f89a4a5ab96ceff9a1df9e40.svg",
+    "static/media/message-square-lines-alt-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/message-square-lines-alt-svgrepo-com.73a4c0d3774d696fdb1e40e11c808ac1.svg",
+    "index.html": "/Green-Energy-Website-React-Tailwind/index.html",
+    "static/media/certificate-01-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/certificate-01-svgrepo-com.ece51e977e0ab73e97f6d25cb68d9d53.svg",
+    "static/media/power-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/power-svgrepo-com.453d84bf5e77d7deb43b7498c494d4fe.svg",
+    "static/media/triangle-right-filled-svgrepo-com.svg": "/Green-Energy-Website-React-Tailwind/static/media/triangle-right-filled-svgrepo-com.aef40eca5421b27274de2457a92a5271.svg",
+    "main.16adf1c4.css.map": "/Green-Energy-Website-React-Tailwind/static/css/main.16adf1c4.css.map",
+    "main.b810cb89.js.map": "/Green-Energy-Website-React-Tailwind/static/js/main.b810cb89.js.map",
+    "453.856de9fb.chunk.js.map": "/Green-Energy-Website-React-Tailwind/static/js/453.856de9fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16adf1c4.css",
+    "static/js/main.b810cb89.js"
+  ]
+}
