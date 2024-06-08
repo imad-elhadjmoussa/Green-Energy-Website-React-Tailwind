@@ -4,13 +4,14 @@ import { GreenBtn } from '../All/GreenBtn'
 
 
 export const Contact = () => {
+
     return (
         <div className='  px-[40px] flex md:flex-row flex-col  gap-10 '>
 
             <motion.div
                 className=' flex flex-col gap-7 items-start justify-start p-8 flex-1 bg-white shadow-lg rounded-lg '
                 initial={{ x: '-50%', opacity: 0 }}
-                whileInView={{ x: 0, opacity: 1,transition:{delay:0.4} }}
+                whileInView={{ x: 0, opacity: 1, transition: { delay: 0.4 } }}
                 viewport={{ once: true, amount: "some" }}
             >
                 <span className=' green-title ' >GET IN TOUCH</span>
@@ -27,11 +28,12 @@ export const Contact = () => {
             <motion.div
                 className=' flex flex-col gap-7 p-8 flex-1 bg-white shadow-lg rounded-lg '
                 initial={{ x: '50%', opacity: 0 }}
-                whileInView={{ x: 0, opacity: 1,transition:{delay:0.8} }}
+                whileInView={{ x: 0, opacity: 1, transition: { delay: 0.8 } }}
                 viewport={{ once: true, amount: "some" }}
             >
                 <span className=' green-title ' >Appiontment</span>
                 <span className=' text-3xl text-dark-primary font-bold font-Rajdhani' >Let's start your project</span>
+
                 <form action="" className=' flex-col flex gap-6'  >
                     <div className=' flex gap-4 items-center  '>
                         <div className=' flex flex-col gap-2 items-start flex-1 '>
@@ -57,7 +59,7 @@ export const Contact = () => {
                         <label htmlFor="">Message</label>
                         <textarea name="" id="" className=' w-full' rows="7" placeholder='Message'></textarea>
                     </div>
-                    <GreenBtn text={"Send"} link={""} />
+                    <GreenBtn text={"Send"} link={"Contact"} />
                 </form>
             </motion.div>
 

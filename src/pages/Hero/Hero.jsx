@@ -44,9 +44,9 @@ export const Hero = ({ ref }) => {
                 </motion.div>
                 <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ duration: 0.2, delay: 1.4 }} >
                     <motion.button
-                        className=' px-[40px] py-[10px]  rounded-sm border-[2px] border-white '
-                        whileHover={{ scale: 1.1 }}
+                        className=' px-[40px] py-[10px]  rounded-sm border-[2px] border-white hover:bg-white/20 hover:border-white/20 transition-all duration-250 ease-linear '
                         onClick={()=>{scrollToSection("About")}}
+                        whileTap={{scale:0.95}}
                     >
                         Discover More
                     </motion.button>

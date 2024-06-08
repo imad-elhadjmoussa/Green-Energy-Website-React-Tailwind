@@ -19,7 +19,7 @@ function App() {
 
 
   return (
-    <div className="" >
+    <div className="  overflow-x-hidden " >
       {
         isOpen &&
         <div className=" w-full h-full fixed bg-white z-30 opacity-[0.5] " >
