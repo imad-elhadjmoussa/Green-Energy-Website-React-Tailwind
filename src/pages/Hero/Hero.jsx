@@ -52,7 +52,7 @@ export const Hero = ({ ref }) => {
                     </motion.button>
                 </motion.div>
             </div>
-            <div className=' absolute flex  items-center gap-6 top-[85%] justify-center  flex-wrap ' ref={ref} >
+            <div className=' absolute px-4 flex  items-center gap-6 top-[85%] justify-center  flex-wrap ' ref={ref} >
 
                 <motion.div
                     className='  flex  cursor-pointer flex-col gap-3 p-10 shadow-lg rounded-sm items-center bg-[#1a63a8]'
@@ -74,7 +74,7 @@ export const Hero = ({ ref }) => {
                     card.map((ele, index) => {
                         return (
                             <motion.div
-                                className=' flex-1 block cursor-pointer'
+                                className='  flex-1 block cursor-pointer'
                                 key={ele.id}
                                 initial={{ scale: 0 }} whileInView={{ scale: 1, transition: { delay: 0.2 * (index + 2) } }} viewport={{ once: true, amount: "all" }}
 
